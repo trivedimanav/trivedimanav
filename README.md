@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Manav Trivedi
 
-<!--
-**trivedimanav/trivedimanav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma / Engineering Student  
+💻 Learning Programming & Development  
+🚀 Interested in Government Exams & Tech  
 
-Here are some ideas to get you started:
+## 🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python 
+- HTML & CSS
+- Git & GitHub
+
+## 📚 Currently Learning
+- Data Structures
+- Python
+- Web Development
+
+## 📫 Connect with me
+- GitHub: https://github.com/trivedimanav
